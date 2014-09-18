@@ -28,3 +28,4 @@ for line in wholeFile:
 	# re.search,find
 openFile.close()
 baiduspiderFile.close()
+
